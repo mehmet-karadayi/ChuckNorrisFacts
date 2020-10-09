@@ -49,6 +49,7 @@ img {
     /* justify-content: center; */
     height: 50vh;
     width: 70vh;
+    padding-bottom: 5%;
 }
 
 #value {
